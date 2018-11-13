@@ -13,7 +13,7 @@ namespace 设计模式控制台
         static void Main(string[] args)
         {
 
-            GetTemplate();
+            GetSingleton();
             Console.Read();
 
         }

@@ -6,3 +6,11 @@ D:\学习资料\技术测试\设计模式\DesignPatterns\设计模式控制台\b
 D:\学习资料\技术测试\设计模式\DesignPatterns\设计模式控制台\obj\Debug\设计模式控制台.csprojResolveAssemblyReference.cache
 D:\学习资料\技术测试\设计模式\DesignPatterns\设计模式控制台\obj\Debug\设计模式控制台.exe
 D:\学习资料\技术测试\设计模式\DesignPatterns\设计模式控制台\obj\Debug\设计模式控制台.pdb
+D:\学习资料\技术测试\Github\测试\client_project_test\DesignPatterns\设计模式控制台\bin\Debug\设计模式控制台.exe.config
+D:\学习资料\技术测试\Github\测试\client_project_test\DesignPatterns\设计模式控制台\obj\Debug\设计模式控制台.exe
+D:\学习资料\技术测试\Github\测试\client_project_test\DesignPatterns\设计模式控制台\obj\Debug\设计模式控制台.pdb
+D:\学习资料\技术测试\Github\测试\client_project_test\DesignPatterns\设计模式控制台\bin\Debug\设计模式控制台.exe
+D:\学习资料\技术测试\Github\测试\client_project_test\DesignPatterns\设计模式控制台\bin\Debug\设计模式控制台.pdb
+D:\学习资料\技术测试\Github\测试\client_project_test\DesignPatterns\设计模式控制台\bin\Debug\DesignPatterns.dll
+D:\学习资料\技术测试\Github\测试\client_project_test\DesignPatterns\设计模式控制台\bin\Debug\DesignPatterns.pdb
+D:\学习资料\技术测试\Github\测试\client_project_test\DesignPatterns\设计模式控制台\obj\Debug\设计模式控制台.csprojResolveAssemblyReference.cache

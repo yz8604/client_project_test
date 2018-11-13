@@ -3,3 +3,8 @@ D:\学习资料\技术测试\设计模式\DesignPatterns\DesignPatterns\bin\Debu
 D:\学习资料\技术测试\设计模式\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojResolveAssemblyReference.cache
 D:\学习资料\技术测试\设计模式\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.dll
 D:\学习资料\技术测试\设计模式\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
+D:\学习资料\技术测试\Github\测试\client_project_test\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.dll
+D:\学习资料\技术测试\Github\测试\client_project_test\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+D:\学习资料\技术测试\Github\测试\client_project_test\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojResolveAssemblyReference.cache
+D:\学习资料\技术测试\Github\测试\client_project_test\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.dll
+D:\学习资料\技术测试\Github\测试\client_project_test\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
